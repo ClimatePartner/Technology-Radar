@@ -1,0 +1,209 @@
+name,ring,quadrant,isNew,description
+Terraform,Adopt,Tools,TRUE,"Is an open-source infrastructure as code software tool created by HashiCorp. </br>
+Users define and provide data center infrastructure using a declarative configuration language known as HashiCorp Configuration Language (HCL), or optionally JSON.</br>
+<a href=""https://www.terraform.io/"" target=""_blank"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"" target=""_blank"">Internal Reference</a></br>"
+Figma,Adopt,Tools,TRUE,"Is a vector graphics editor and prototyping tool which is primarily web-based, with additional offline features enabled by desktop applications for macOS and Windows. The Figma Mirror companion apps for Android and iOS allow viewing Figma prototypes in real-time on mobile devices. The feature set of Figma focuses on use in user interface and user experience design, with an emphasis on real-time collaboration. </br>
+<a href=""https://www.figma.com/"" target=""_blank"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"" target=""_blank"">Internal Reference</a></br>"
+AWS Wrangler,Trial,Tools,TRUE,"An AWS Professional Service open source python initiative that extends the power of Pandas library to AWS connecting DataFrames and AWS data related services. </br>
+Easy integration with Athena, Glue, Redshift, Timestream, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).</br>
+<a href=""https://aws-data-wrangler.readthedocs.io/en/2.4.0-docs/index.html"" target=""_blank"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"" target=""_blank"">Internal Reference</a></br>"
+Datadog,Assess,Tools,TRUE,"Is a monitoring service for cloud-scale applications, providing monitoring, alerting and APM of servers, databases, tools, and services, through a SaaS-based data analytics platform.</br>
+<a href=""https://www.datadoghq.com/"" target=""_blank"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"" target=""_blank"">Internal Reference</a></br>"
+Sonarqube,Assess,Tools,TRUE,"Is an open-source platform developed by SonarSource for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells, and security vulnerabilities on 20+ programming languages. SonarQube offers reports on duplicated code, coding standards, unit tests, code coverage, code complexity, comments, bugs, and security vulnerabilities.</br>
+SonarQube can record metrics history and provides evolution graphs. SonarQube provides fully automated analysis and integration with Maven, Ant, Gradle, MSBuild and continuous integration tools (Atlassian Bamboo, Jenkins, Hudson, etc.).</br>
+<a href=""https://www.sonarqube.org/"" target=""_blank"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"" target=""_blank"">Internal Reference</a></br>"
+Slack,Assess,Tools,TRUE,"is a proprietary business communication platform developed by American software company Slack Technologies. Slack offers many IRC-style features, including persistent chat rooms (channels) organized by topic, private groups, and direct messaging..</br>
+<a href=""https://slack.com/"" target=""_blank"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"" target=""_blank"">Internal Reference</a></br>"
+Fivetran,Assess,Tools,TRUE,"Automated data integrations built on a fully managed ELT architecture that delivers zero-maintenance pipelines and ready-to-query schemas.</br>
+<a href=""https://fivetran.com/"" target=""_blank"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"" target=""_blank"" >Internal Reference</a></br>"
+Castor,Assess,Tools,TRUE,"Data catalogue, that helps documentation of all available data (""google for internal datasets"")"
+dbt,Assess,Tools,TRUE,"Dbt enables data analysts and data engineers to automate the testing and deployment of the data transformation process. This is especially useful because many companies have increasingly complex business logic behind their reporting data. The dbt tool keeps a record of all changes made to the underlying logic and makes it easy to trace data and update or fix the pipeline through version control.</br>
+<a href=""https://www.getdbt.com/"" target=""_blank"" >Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"" target=""_blank"">Internal Reference</a></br>"
+Apache Airflow,Assess,Tools,TRUE,"Is a platform to programmatically author, schedule and monitor workflows. Airflow has a modular architecture and uses a message queue to orchestrate an arbitrary number of workers.</br>
+<a href=""https://airflow.apache.org/"" target=""_blank"" >Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"" target=""_blank"">Internal Reference</a></br>"
+k6,Assess,Tools,TRUE,"k6 is a Free/Open-Source tool, written in Go, which can ingest tests written in JavaScript (ES5.1+) and turn them into requests to load test your website or API. It can be integrated in the build pipeline.</br>
+<a href=https://k6.io/"" target=""_blank"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"" target=""_blank"" >Internal Reference</a></br>"
+Terratest,Assess,Tools,TRUE,"Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. It provides a variety of helper functions and patterns for common infrastructure testing tasks.</br>
+<a href=""https://terratest.gruntwork.io/"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+Testcontainers,Assess,Tools,TRUE,"Testcontainers is a Multilanguage library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.</br>
+<a href=""https://terratest.gruntwork.io/"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+OpsGenie,Assess,Tools,TRUE,"modern incident management platform that ensures critical incidents are never missed, and actions are taken by the right people in the shortest possible time. Opsgenie receives alerts from your monitoring systems and custom applications and categorizes each alert based on importance and timing.</br>
+<a href=""https://www.atlassian.com/software/opsgenie"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+Sketch,Hold,Tools,TRUE,"Is a vector graphics editor. It is primarily used for user interface and user experience design of websites and mobile apps and does not include print design features. Sketch has more recently added features for prototyping and collaboration.</br>
+<a href=""https://www.sketch.com/"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+Functional Programming,Adopt,Techniques,TRUE,"In computer science, functional programming is a programming paradigm where programs are constructed by applying and composing functions. It is a declarative programming paradigm in which function definitions are trees of expressions that map values to other values, rather than a sequence of imperative statements which update the running state of the program.</br>
+In functional programming, functions are treated as first-class citizens, meaning that they can be bound to names (including local identifiers), passed as arguments, and returned from other functions, just as any other data type can. This allows programs to be written in a declarative and composable style, where small functions are combined in a modular manner.</br>
+<a href=""https://en.wikipedia.org/wiki/Functional_programming"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+Test-driven development,Adopt,Techniques,TRUE,"Is a software development process relying on software requirements being converted to test cases before software is fully developed, and tracking all software development by repeatedly testing the software against all test cases. This is opposed to software being developed first and test cases created later. Following the patterns like YAGNY.</br>
+<a href=""https://en.wikipedia.org/wiki/Test-driven_development"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+pair programming,Adopt,Techniques,TRUE,"Pair programming is an agile software development technique in which two programmers work together at one workstation. One, the driver, writes code while the other, the observer or navigator, reviews each line of code as it is typed in. The two programmers switch roles frequently. While reviewing, the observer also considers the ""strategic"" direction of the work, coming up with ideas for improvements and likely future problems to address. This is intended to free the driver to focus all of their attention on the ""tactical"" aspects of completing the current task, using the observer as a safety net and guide.</br>
+<a href=""https://en.wikipedia.org/wiki/Pair_programming"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+You build it you run it,Adopt,Techniques,TRUE,"Developers take care of deploying and maintaining the health of their owned services.</br>
+<a href=""https://simplicable.com/new/you-build-it-you-run-it"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+Feature Toggles,Adopt,Techniques,TRUE,"A feature toggle (also feature switch, feature flag, feature gate, feature flipper, conditional feature, etc.) is a technique in software development that attempts to provide an alternative to maintaining multiple branches in source code (known as feature branches), such that a software feature can be tested even before it is completed and ready for release. A feature toggle is used to hide, enable or disable the feature during runtime. For example, during the development process, a developer can enable the feature for testing and disable it for other users.</br>
+<a href=""https://en.wikipedia.org/wiki/Feature_toggle"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+Schema Evolution in code,Adopt,Techniques,TRUE,"Schema migrations is part of the natural evolution of software. This process needs to be automatable this helps reproducibility of systems, issue managament and the capability of performing CD. We Recommend 2 options based on needs:</br>
+- Pipeline migrations: Let the CI system perform the migration before deployment.</br>
+- Source Code migrations: As a prestep of your code run the migrations. </br>
+<a href=""https://en.wikipedia.org/wiki/Feature_toggle"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+Trunk Based Development,Trial,Techniques,TRUE,"Is a version control management practice where developers merge small, frequent updates to a core “trunk” or main branch. Since it streamlines merging and integration phases, it helps achieve CI/CD and increases software delivery and organizational performance.</br>
+- Source Code migrations: As a prestep of your code run the migrations. </br>
+<a href=""https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+Option or Either Monads as first approach,Trial,Techniques,TRUE,"Using these monads you will get rid of a series of bugs like null-pointer exceptions, unhandled exceptions, and race conditions. They are an option to error management and 3rd state situation  that can solve the duality of managing or inventing conventions to handle these cases. </br>
+- Source Code migrations: As a prestep of your code run the migrations. An important example is <a href=""https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development"">NULL the Billion dolar mistake</a></br>
+<a href=""https://www.toptal.com/javascript/option-maybe-either-future-monads-js"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+UI/BFF shared types,Trial,Techniques,TRUE,"In this technique, a single set of type definitions is used to define both the data objects returned by front-end queries and the data served to satisfy those queries by the back-end server. Ordinarily, we would be cautious about this practice because of the unnecessarily tight coupling it creates across process boundaries. However, many teams are finding that the benefits of this approach outweigh any risks of tight coupling. Since the BFF pattern works best when the same team owns both the UI code and the BFF, often storing both components in the same repository, the UI/BFF pair can be viewed as a single cohesive system.</br>
+<a href=""https://blog.bitsrc.io/sharing-types-between-backend-and-frontend-with-the-bff-pattern-553872842463"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+Story Mapping,Trial,Techniques,TRUE,"User story mapping is a visual exercise that helps product managers and their development teams define the work that will create the most delightful user experience. It is used to improve teams’ understanding of their customers and to prioritize work. </br>
+In user story mapping, teams create a dynamic outline of a representative user’s interactions with the product, evaluate which steps have the most benefit for the user, and prioritize what should be built next. For agile organizations, it provides an alternative to building a flat list of backlog items or working from lengthy requirements documents.</br>
+<a href=""https://www.aha.io/roadmapping/guide/release-management/what-is-user-story-mapping"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+Single Environment,Trial,Techniques,TRUE,"We should be looking to do CD and integrate in a single environment this helps in our response time to issues, and also will allow us to make sure we validate things with the real situation and performance. Reducing costs at the same time.</br>
+<a href=""https://paulosman.me/2019/12/30/production-oriented-development/"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+Data Mesh,Assess,Techniques,TRUE,"A domain-driven analytical data architecture where data is treated as a product and owned by teams that most intimately know and consume the data. It federate data ownership among domains and the teams that own them.</br>
+<a href=""https://martinfowler.com/articles/data-monolith-to-mesh.html"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br> "
+Web Components,Assess,Techniques,TRUE,"Web Components is a suite of different technologies allowing you to create reusable custom elements — with their functionality encapsulated away from the rest of your code — and utilize them in your web apps.</br>
+<a href=""https://developer.mozilla.org/en-US/docs/Web/Web_Components"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br> "
+Micro-Frontend,Assess,Techniques,TRUE,"an architectural style where independently deliverable frontend applications are composed into a greater whole. A Micro-Frontend is a portion of a webpage (not the entire page). In the Micro-Frontend Architecture, there is a ""Host"" or a ""Container""page that can host one or more Micro-Frontends. The Host/Container page can also share some of its own Micro-Frontend components.</br>
+<a href=""https://martinfowler.com/articles/micro-frontends.html"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br> "
+Team Cognitive Load,Assess,Techniques,TRUE,"Team interaction is one of the variables for how fast and how easily teams can deliver value to their customers. We were happy to find a way to measure these interactions; we used the Team Topologies author's assessment which gives you an understanding of how easy or difficult the teams find it to build, test and maintain their services. By measuring team cognitive load, we could better understand how to change teams structure and evolve interactions.</br>
+<a href=""https://github.com/TeamTopologies/Team-Cognitive-Load-Assessment"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+Everything as code,Assess,Techniques,TRUE,"We should be able to run most of the process, not only deployments as versionable resources. This goes from infrastructure up to organization.</br>
+<a href=""https://hackernoon.com/everything-as-code-explained-0ibg32a3"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+Use serviceWorkers,Assess,Techniques,TRUE,"We don't have advanced serviceWorker-driven caching techniques in use atm. Performance might not be the no. 1 priority right now, but for the users it matters. serviceWorkers are now seeing 94% browser support globally (according to caniuse.com). Using standard impl. like workbox (by Google) we could increase our apps speed drastically with a few lines of (well end2end tested) code.</br>
+<a href=""https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API#service_worker_concepts_and_usage"">Wepage</a></br>
+<a href=""https://developers.google.com/web/tools/workbox/"">Example Library</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+Power BI,Adopt,Platforms,TRUE,"is a business analytics service by Microsoft. It aims to provide interactive visualizations and business intelligence capabilities with an interface simple enough for end users to create their own reports and dashboards.</br>
+<a href=""https://powerbi.microsoft.com/en-us/"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+Redis,Adopt,Platforms,TRUE,"Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache, and message broker. Redis provides data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes, and streams. Redis has built-in replication, Lua scripting, LRU eviction, transactions, and different levels of on-disk persistence, and provides high availability via Redis Sentinel and automatic partitioning with Redis Cluster.</br>
+<a href=""https://redis.io/"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+node.js,Adopt,Platforms,TRUE,"Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. Consequently, Node.js represents a ""JavaScript everywhere"" paradigm,[6] unifying web-application development around a single programming language, rather than different languages for server-side and client-side scripts.</br>
+<a href=""https://nodejs.org/"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+AWS Glue,Trial,Platforms,TRUE,"AWS Glue is a serverless data integration service that makes it easy to discover, prepare, and combine data for analytics, machine learning, and application development. AWS Glue provides all of the capabilities needed for data integration so that you can start analyzing your data and putting it to use.</br>
+<a href=""https://aws.amazon.com/glue/"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+Athena,Trial,Platforms,TRUE,"Is an interactive query service that makes it easy to analyze data in Amazon S3 using standard SQL. Athena is serverless, so there is no infrastructure to manage, and you pay only for the queries that you run.</br>
+<a href=""https://aws.amazon.com/athena/"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+Snowflake,Assess,Platforms,TRUE,"Snowflake offers a cloud-based data storage and analytics service, generally termed ""data warehouse-as-a-service"". It allows corporate users to store and analyze data using cloud-based hardware and software.</br>
+<a href=""https://www.snowflake.com/"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+Kinesis Data Firehose,Assess,Platforms,TRUE,"Amazon Kinesis Data Firehose is the easiest way to reliably load streaming data into data lakes, data stores, and analytics services. It can capture, transform, and deliver streaming data to Amazon S3, Amazon Redshift, Amazon Elasticsearch Service, generic HTTP endpoints, and service providers like Datadog, New Relic, MongoDB, and Splunk. It is a fully managed service that automatically scales to match the throughput of your data and requires no ongoing administration. It can also batch, compress, transform, and encrypt your data streams before loading, minimizing the amount of storage used and increasing security.</br>
+<a href=""https://aws.amazon.com/kinesis/data-firehose"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+AWS Step Functions to orchestrate data pipelines,Assess,Platforms,TRUE,"Is a low-code visual workflow service used to orchestrate AWS services, automate business processes, and build serverless applications. Workflows manage failures, retries, parallelization, service integrations, and observability so developers can focus on higher-value business logic. We can use it for Data Processing and ETL Orchestration.</br>
+<a href=""https://aws.amazon.com/step-functions"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+Snowplow,Assess,Platforms,TRUE,"Is a marketing and product analytics platform. It does three things:</br>
+ - Identifies your users, and tracks the way they engage with your website or application</br>
+ - Stores your users' behavioral data in a scalable ""event data warehouse"" you control: Amazon Redshift, Google BigQuery, Snowflake or Elasticsearch</br>
+ - Lets you leverage the biggest range of tools to analyze that data, including big data tools (e.g. Spark) via EMR or more traditional tools e.g. Looker, Mode, Superset, Re:dash to analyze that behavioral data</br>
+<a href=""https://snowplowanalytics.com/"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+Datahub,Assess,Platforms,TRUE,"Is a extensible metadata platform enables data discovery, data observability and federated governance that helps you tame complexity. </br>
+<a href=""https://datahubproject.io/"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+Meltano,Assess,Platforms,TRUE,"Meltano is open source, self-hosted, CLI-first, debuggable, and extensible.</br>
+Pipelines are code, ready to be version controlled, containerized, and deployed continuously. Develop and test locally, then deploy in production along with the built-in Airflow integration, or inside your orchestrator of choice.</br>
+Meltano embraces the Singer standard and its community-maintained library of open source extractors and loaders, and leverages dbt for transformation.</br>
+<a href=""https://meltano.com/"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+Athena CTAS as data warehouse,Assess,Platforms,TRUE,"A CREATE TABLE AS SELECT (CTAS) query creates a new table in Athena from the results of a SELECT statement from another query. Athena stores data files created by the CTAS statement in a specified location in Amazon S3.</br>
+Therefore we could use it as an alternative to snowflake or redshift.</br>
+<a href=""https://docs.aws.amazon.com/athena/latest/ug/ctas.html"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+Deno,Assess,Platforms,TRUE,"Is a runtime for JavaScript and TypeScript that is based on the V8 JavaScript engine and the Rust programming language. Deno explicitly takes on the role of both runtime and package manager within a single executable, rather than requiring a separate package-management program..</br>
+<a href=""https://deno.land/"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+Elasticache Redis,Assess,Platforms,TRUE," is a blazing fast in-memory data store that provides sub-millisecond latency to power internet-scale real-time applications. Built on open-source Redis and compatible with the Redis APIs, ElastiCache for Redis works with your Redis clients and uses the open Redis data format to store your data.</br>
+<a href=""https://aws.amazon.com/elasticache/redis/"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+GCP,Hold,Platforms,TRUE,"Our company is currently using AWS services for this reason we dont want to create new services in GCP.</br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+TypeScript,Adopt,Programming Languages and Frameworks,TRUE,"TypeScript is a programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript and adds optional static typing to the language. TypeScript is designed for the development of large applications and transcompiles to JavaScript. As TypeScript is a superset of JavaScript, existing JavaScript programs are also valid TypeScript programs.</br>
+<a href=""https://www.typescriptlang.org/"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+React,Adopt,Programming Languages and Frameworks,TRUE,"is a free and open-source front-end JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications. However, React is only concerned with state management and rendering that state to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-side functionality</br>
+<a href=""https://reactjs.org/"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+Spring Boot,Adopt,Programming Languages and Frameworks,TRUE,"Spring Boot is Spring's convention-over-configuration solution for creating stand-alone, production-grade Spring-based Applications that you can ""just run"". It is preconfigured with the Spring team's ""opinionated view"" of the best configuration and use of the Spring platform and third-party libraries so you can get started with minimum fuss. Most Spring Boot applications need very little Spring configuration.</br>
+<a href=""https://spring.io/projects/spring-boot"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+Java,Adopt,Programming Languages and Frameworks,TRUE,"Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let application developers write once, run anywhere (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.</br>
+<a href=""https://en.wikipedia.org/wiki/Java_(programming_language)"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+Material-UI,Adopt,Programming Languages and Frameworks,TRUE,"Material-UI is a set of React components that implement Google's Material Design specification.</br>
+<a href=""https://material-ui.com/"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+fp-ts,Trial,Programming Languages and Frameworks,TRUE,"is a library for typed functional programming in TypeScript.</br>
+fp-ts aims to allow developers to use popular patterns and abstractions that are available in most functional languages. For this, it includes the most popular data types, type classes and abstractions such as Option, Either, IO, Task, Functor, Applicative, Monad to empower users to write pure FP apps and libraries built atop higher order abstractions.</br>
+<a href=""https://gcanti.github.io/fp-ts/"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+fastify,Trial,Programming Languages and Frameworks,TRUE,"Fastify is a web framework highly focused on providing the best developer experience with the least overhead and a powerful plugin architecture.</br>
+<a href=""https://www.fastify.io/"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+Python as support language,Trial,Programming Languages and Frameworks,TRUE,"Python is an interpreted high-level general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant indentation. Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.</br>
+We recommend Python for the next type of projects:</br>
+- Scripting</br>
+- Data</br>
+- Infrastructure</br>
+<a href=""https://www.python.org/"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+Gatsby,Trial,Programming Languages and Frameworks,TRUE,"Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps</br>
+<a href=""https://www.gatsbyjs.com/"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+io-ts,Trial,Programming Languages and Frameworks,TRUE,"bridges the gap between compile-time type-checking and run-time consumption of external data by providing encode and decode functions. It can also be used as a custom type guard.</br>
+<a href=""https://gcanti.github.io/io-ts/"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+Kotlin,Assess,Programming Languages and Frameworks,TRUE,"is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin's standard library depends on the Java Class Library, but type inference allows its syntax to be more concise. Kotlin mainly targets the JVM, but also compiles to JavaScript (e.g., for frontend web applications using React) or native code (via LLVM);</br>
+<a href=""https://kotlinlang.org/"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+Elm,Assess,Programming Languages and Frameworks,TRUE,"Elm is a domain-specific programming language for declaratively creating web browser-based graphical user interfaces. Elm is purely functional, and is developed with emphasis on usability, performance, and robustness. It advertises ""no runtime exceptions in practice""</br>
+<a href=""https://elm-lang.org/"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+NestJS,Assess,Programming Languages and Frameworks,TRUE,"NestJS is a framework for building efficient, scalable Node.js web applications. It uses modern JavaScript, is built with TypeScript and combines elements of OOP (Object Oriented Progamming), FP (Functional Programming), and FRP (Functional Reactive Programming).</br>
+<a href=""https://nestjs.com/"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+JavaScript,Hold,Programming Languages and Frameworks,TRUE,"is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.</br>
+<a href=""https://en.wikipedia.org/wiki/JavaScript"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+JSF,Hold,Programming Languages and Frameworks,TRUE,"Jakarta Server Faces (JSF; formerly JavaServer Faces) is a Java specification for building component-based user interfaces for web applications and was formalized as a standard through the Java Community Process being part of the Java Platform, Enterprise Edition. It is also a MVC web framework that simplifies construction of user interfaces (UI) for server-based applications by using reusable UI components in a page.</br>
+<a href=""https://en.wikipedia.org/wiki/Jakarta_Server_Faces"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
+Python for Services,Hold,Programming Languages and Frameworks,TRUE,"Python is an interpreted high-level general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant indentation. Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.</br>
+We dont want to use this language for webdevelopment as it does not fit with our platform strategy. Please use TS or JVM Languages</br>
+<a href=""https://www.python.org/"">Wepage</a></br>
+<a href=""https://climatepartner.atlassian.net/l/c/f0X0hVM1"">Internal Reference</a></br>"
